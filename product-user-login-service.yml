@@ -15,7 +15,7 @@ spring:
     datasource:
         driverClassName: org.h2.Driver
         password: user
-        url: jdbc:h2:mem:shoppingcartproduct
+        url: jdbc:h2:mem:shoppingcartuser
         username: user
     h2:
         console:
